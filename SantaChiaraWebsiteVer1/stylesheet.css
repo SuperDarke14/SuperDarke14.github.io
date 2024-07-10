@@ -1,7 +1,7 @@
 body{
 	font-family: 'Libre Baskerville';
 	position: relative;
-	background-color: #e3c268;
+	background-color: #b4cf83;
 	max-width: 100vw;
 	white-space: normal;
 }
@@ -17,7 +17,7 @@ body{
 	width: 100%;
 	height: 10%;
 
-	background-color: #DC143C;
+	background-color: #34b9fa;
 	flex-grow: 1;
 	display: flex;
 	flex-direction: row;
