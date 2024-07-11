@@ -38,9 +38,9 @@ body{
 	grid-auto-flow: row;
 	display: grid;
 	grid-template-columns: repeat(2, auto);
-	grid-gap: 4%;
+	grid-gap: 10%;
 	align-content: space-evenly;
-	padding: 2%;
+	padding: 8%;
 }
 #garment {
 	display: table-cell;
@@ -52,7 +52,7 @@ body{
 
 img {
 	max-width: 80%;
-	max-height: 75%;
+	max-height: 40%;
 	box-shadow: 8px 12px 1px 1px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 #textarea {
